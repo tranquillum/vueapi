@@ -1,0 +1,6 @@
+[submodule "laravel"]
+	path = laravel
+	url = https://github.com/Kasparsu/vueapi-back.git
+[submodule "front"]
+	path = front
+	url = https://github.com/Kasparsu/vueapi-front.git

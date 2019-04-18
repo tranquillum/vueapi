@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e10b5029-3437-4256-a069-ca1ccf1dcace" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-back/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-back/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/app/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-back/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front/plugins/echo.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/plugins/echo.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/vueapi-back/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - homestead@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - homestead@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - homestead@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="homestead: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MariaDB - homestead@192.168.99.100" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="homestead: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="favorites: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/likes">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/CommentController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-504">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="e#40#57#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Favorite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/routes/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="40" column="40" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/favorites">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true">
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/list.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>key</find>
+      <find>'key'</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi</dir>
+      <dir>C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-front</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vueapi-back" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vueapi-front/plugins/echo.js" />
+        <option value="$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_18_113617_creat_favorites_table.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/Favorite.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/routes/api.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/Post.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/composer" />
+      <path value="$PROJECT_DIR$/vueapi-back/vendor/dnoegel/php-xdg-base-dir" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vueapi.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/php.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="213" />
+    <option name="y" value="9" />
+    <option name="width" value="1697" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vueapi-back/app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-back\app" />
+      <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-back\app\Http\Controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10b5029-3437-4256-a069-ca1ccf1dcace" name="Default Changelist" comment="" />
+      <created>1555575282469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555575282469</updated>
+      <workItem from="1555575283581" duration="7786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16311301" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32998884" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Database Console" order="4" weight="0.32998884" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info active="true" anchor="right" id="Database" order="0" visible="true" weight="0.13646056" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Events/NewComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/plugins/echo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/nuxt.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/password_resets">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/images">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/migrations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_10_091515_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/comments">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2f607b77-9644-425a-b15c-437df0a33746/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/forms/post.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Like.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/ImageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/services/postsService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/Comment.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/CommentList.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/listTable.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_18_113617_creat_favorites_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_03_111915_create_likes_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/LikeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="42" column="54" lean-forward="true" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/plugins/api.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/store/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/list.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Favorite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/likes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/favorites">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#57#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

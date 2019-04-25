@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10b5029-3437-4256-a069-ca1ccf1dcace" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueapi-back/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueapi-back/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueapi-back/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-back" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front/components/mainmenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/components/mainmenu.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueapi-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front/pages/posts/_id.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/pages/posts/_id.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueapi-front/plugins/echo.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/plugins/echo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueapi-front/store/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueapi-front/store/posts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/vueapi-back/composer.json</pharConfigPath>
   </component>
   <component name="DatabaseView">
@@ -47,43 +48,46 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="homestead: schema" type="ebfa3cd1:MariaImplModel$Schema" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="MariaDB - homestead@192.168.99.100" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="homestead: schema" type="ebfa3cd1:MariaImplModel$Schema" />
-        <item name="favorites: table" type="dbc44a63:MariaImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/likes">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true">
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/CommentController.php">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/components/postList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="386">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <folding>
+                <element signature="e#215#241#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/components/postListFavorites.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/components/infiniteScroll.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#40#57#0#PHP" expanded="true" />
               </folding>
@@ -92,19 +96,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Post.php">
+        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/PostController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="218">
+              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vueapi-back/app/Favorite.php">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/store/posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="314">
+              <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="71" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/services/serviceContainer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/services/postsService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/favorites.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <element signature="e#155#204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,34 +149,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vueapi-back/routes/api.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="40" column="40" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="338">
+              <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/favorites">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true">
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/list.vue">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>key</find>
       <find>'key'</find>
+      <find>favorites</find>
+      <find>posts</find>
+      <find>CommentList</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi</dir>
@@ -148,7 +179,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vueapi-back" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vueapi-front" />
     <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
@@ -156,10 +187,18 @@
       <list>
         <option value="$PROJECT_DIR$/vueapi-front/plugins/echo.js" />
         <option value="$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_18_113617_creat_favorites_table.php" />
-        <option value="$PROJECT_DIR$/vueapi-back/app/Favorite.php" />
-        <option value="$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php" />
-        <option value="$PROJECT_DIR$/vueapi-back/routes/api.php" />
         <option value="$PROJECT_DIR$/vueapi-back/app/Post.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/routes/api.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/Favorite.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/User.php" />
+        <option value="$PROJECT_DIR$/vueapi-back/routes/web.php" />
+        <option value="$PROJECT_DIR$/vueapi-front/components/mainmenu.vue" />
+        <option value="$PROJECT_DIR$/vueapi-front/pages/posts/_id.vue" />
+        <option value="$PROJECT_DIR$/vueapi-front/components/favorites.vue" />
+        <option value="$PROJECT_DIR$/vueapi-front/pages/posts/favorites.vue" />
+        <option value="$PROJECT_DIR$/vueapi-front/store/posts.js" />
+        <option value="$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php" />
+        <option value="$PROJECT_DIR$/vueapi-front/components/postListFavorites.vue" />
       </list>
     </option>
   </component>
@@ -254,23 +293,11 @@
       <path value="$PROJECT_DIR$/vueapi-back/vendor/dnoegel/php-xdg-base-dir" />
     </include_path>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vueapi.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/php.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="213" />
-    <option name="y" value="9" />
-    <option name="width" value="1697" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="101" />
+    <option name="y" value="42" />
+    <option name="width" value="1784" />
+    <option name="height" value="949" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -318,6 +345,47 @@
               <item name="vueapi-back" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vueapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vueapi" type="462c0819:PsiDirectoryNode" />
+              <item name="vueapi-front" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -326,18 +394,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/vueapi-back/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vueapi-front/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-front\pages\posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-front\components" />
       <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-back\app" />
       <recent name="C:\Users\opilane\Aleksandr Pavlov TA-16E\vueapi\vueapi-back\app\Http\Controllers" />
     </key>
@@ -364,21 +438,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555575282469</updated>
-      <workItem from="1555575283581" duration="7786000" />
+      <workItem from="1555575283581" duration="8321000" />
+      <workItem from="1556176092212" duration="12751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7786000" />
+    <option name="totallyTimeSpent" value="21072000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="101" y="42" width="1784" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16311301" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19663574" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.25189874" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -391,7 +466,7 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info active="true" anchor="right" id="Database" order="0" visible="true" weight="0.13646056" />
+      <window_info anchor="right" id="Database" order="0" weight="0.119504645" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -401,30 +476,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Events/NewComment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/plugins/echo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/nuxt.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueapi-back/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -487,27 +538,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2f607b77-9644-425a-b15c-437df0a33746/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/components/forms/post.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Like.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/ImageController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -515,19 +545,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/services/postsService.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vueapi-front/components/Comment.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-204" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/components/CommentList.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/components/listTable.vue">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vueapi-back/database/migrations/2019_04_18_113617_creat_favorites_table.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -543,72 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/LikeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="42" column="54" lean-forward="true" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
-          <folding>
-            <element signature="e#40#53#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Comment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/PostController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/index.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/plugins/api.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/store/posts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2140" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/list.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/CommentController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="40" column="40" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Favorite.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/likes">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -617,6 +572,96 @@
           </filtering>
         </state>
       </provider>
+    </entry>
+    <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="479" column="7" lean-forward="true" selection-start-line="479" selection-start-column="7" selection-end-line="479" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Like.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Favorite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/LikeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="42" column="54" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="54" />
+          <folding>
+            <element signature="e#40#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="47" selection-start-line="17" selection-start-column="9" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="741" column="20" selection-start-line="741" selection-start-column="20" selection-end-line="741" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/forms/post.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/layouts/signedIn.vue">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="das://2f607b77-9644-425a-b15c-437df0a33746/schema/homestead/table/favorites">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -627,13 +672,186 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/.nuxt/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/layouts/default.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/modal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/listTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/mainmenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/CommentList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/plugins/api.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#163#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/_id.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#300#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/post.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/postList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#215#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/services/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/store/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="71" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/PostModal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/services/serviceContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/services/postsService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/PostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vueapi-back/app/Http/Controllers/FavoritesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#40#57#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/pages/posts/favorites.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="e#155#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/infiniteScroll.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueapi-front/components/postListFavorites.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
